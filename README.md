@@ -4,11 +4,11 @@ Four years ago, I engineered a Bluetooth-controlled, 4-wheeled robotic vehicle u
  What sets it apart?
 I used two smartphones—one mounted on the robot to stream video live via Alfred Camera, and another as a controller via Bluetooth. This setup enabled real-time navigation from anywhere, even without visual contact.
 
-[AI ROBOT](robot_image/ai%20robot.png)
+![AI ROBOT](robot_image/ai%20robot.png)
 
-[MOTO ROBOT](robot_image/moto%20root.jpg)
+![MOTO ROBOT](robot_image/moto%20root.jpg)
 
-[MOTOR ROBOT](robot_image/motor%20robot.jpg)
+![MOTOR ROBOT](robot_image/motor%20robot.jpg)
 
 ⚙️ Key Technologies:
 Arduino Uno + HC-05 Bluetooth
