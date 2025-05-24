@@ -25,4 +25,4 @@ DIY remote monitoring solutions
 🔧 Built this from scratch using readily available components and lots of curiosity. It’s a great example of turning ideas into real-world functional tech!
 hashtag#Arduino hashtag#EmbeddedSystems hashtag#IoT hashtag#Robotics hashtag#DIYProjects hashtag#Bluetooth hashtag#MobileControl hashtag#TechInnovation hashtag#Electronics hashtag#Automation
 hashtag#ArduinoProjects
-hashtag#BluetoothRobot hashtag#SurveillanceRobot hashtag#SmartTech hashtag#DIYRobotics hashtag#EmbeddedSystems hashtag#TechInnovation hashtag#IoTProjects hashtag#RobotCamera hashtag#MadeWithArduino 
+hashtag#BluetoothRobot hashtag#SurveillanceRobot hashtag#SmartTech hashtag#DIYRobotics hashtag#EmbeddedSystems hashtag#TechInnovation hashtag#IoTProjects hashtag#RobotCamera hashtag#MadeWithArduino
